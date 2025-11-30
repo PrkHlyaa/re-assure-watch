@@ -11,7 +11,7 @@ const Header = () => {
           <span className="text-xl font-bold text-foreground">Re'Assurance</span>
         </Link>
         <p className="text-sm text-muted-foreground hidden md:block">
-          Reddit Sentiment Analysis – Allianz vs Prudential
+          YouTube Sentiment Analysis – Allianz vs Prudential
         </p>
       </div>
     </header>
