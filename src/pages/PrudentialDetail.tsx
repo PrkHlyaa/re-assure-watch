@@ -145,7 +145,7 @@ const PrudentialDetail = () => {
         {/* Comments Table */}
         <Card>
           <CardHeader>
-            <CardTitle>Daftar Komentar Reddit</CardTitle>
+            <CardTitle>Daftar Komentar YouTube</CardTitle>
           </CardHeader>
           <CardContent>
             <CommentTable comments={prudentialComments} />

@@ -40,10 +40,10 @@ const Dashboard = () => {
         {/* Hero Section */}
         <div className="text-center mb-12 space-y-4">
           <h1 className="text-4xl md:text-5xl font-bold text-foreground">
-            Sentiment Analysis Allianz vs Prudential dari Reddit
+            Sentiment Analysis Allianz vs Prudential dari YouTube
           </h1>
           <p className="text-lg text-muted-foreground max-w-3xl mx-auto">
-            Ringkasan opini publik terkini dari komunitas Reddit Indonesia & Global
+            Ringkasan opini publik terkini dari komentar YouTube Indonesia & Global
           </p>
         </div>
 
